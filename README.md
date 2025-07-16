@@ -1,4 +1,5 @@
-**About DWARF MONGOOSE OPTIMIZATION ALGORITHM**
+**DWARF MONGOOSE OPTIMIZATION ALGORITHM**
+
 A brain stroke (BS) occurs when there is an abrupt interruption of blood flow to the brain, which can lead to neuronal damage and functional impairment.The main difficulty in classifying BS is accurately and quickly distinguishing between normal and stroke-affected brain areas using imaging modalities like CT or MRI, 
 which is essential for prompt and efficient clinical decision-making. For BS classification with dual-modality pictures, a unique deep learning-based DEMO-BARN architecture has been developed in order to address this problem. To enhance picture quality and avoid noise issues, the Contrast Stretching Adaptive Bilateral (CSAB) filter was used to 
 pre-process the dual input images (MRI and PET) produced from the Kaggle dataset. Fine features are extracted from the pre-processed pictures using ResNeXt. 
