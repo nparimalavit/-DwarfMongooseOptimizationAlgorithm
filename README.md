@@ -42,9 +42,9 @@ Citation
 If you find this code useful in your research, please consider citing:
 
 
-@article{cao2025 DEMO-BARN,
-  title={ DEMO-BARN: DWARF MONGOOSE OPTIMIZATION ALGORITHM FOR BRAIN STROKE CLASSIFICATION USING DUAL IMAGES},
-  author={ Parimala Nallamotu, Muneeswari G },
+@article{DEMO-BARN2025,
+  title={DEMO-BARN: DWARF MONGOOSE OPTIMIZATION ALGORITHM FOR BRAIN STROKE CLASSIFICATION USING DUAL IMAGES},
+  author={Parimala Nallamotu, Muneeswari G},
   journal={International Journal of Computer Vision},
   pages={1--20},
   year={2025},
