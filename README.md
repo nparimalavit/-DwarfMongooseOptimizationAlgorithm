@@ -5,7 +5,7 @@ which is essential for prompt and efficient clinical decision-making. For BS cla
 pre-process the dual input images (MRI and PET) produced from the Kaggle dataset. Fine features are extracted from the pre-processed pictures using ResNeXt. 
 The dwarf mongoose optimization (DMO) technique can be used to eliminate extraneous data and choose the most important features for further examination after feature extraction. The BS is divided into normal and stroke classes by Inception-ResNet1 based on the features that were chosen. To evaluate the suggested DEMO-BARN model, the following metrics were used: f1 score, accuracy, recall, precision, and specificity.  
 
-**Dwarf Mongoose Optimization Algorithm**
+**METHODOLOGY**
 
 ![image alt](https://raw.githubusercontent.com/nparimalavit/-DwarfMongooseOptimizationAlgorithm/909b9f079e25f26f0707576fff4d1c0e3e40697d/Picture1.jpg)
 
