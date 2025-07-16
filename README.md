@@ -5,7 +5,7 @@ The dwarf mongoose optimization (DMO) technique can be used to eliminate extrane
 
 Dwarf Mongoose Optimization Algorithm
 
-
+![image alt](https://raw.githubusercontent.com/nparimalavit/-DwarfMongooseOptimizationAlgorithm/909b9f079e25f26f0707576fff4d1c0e3e40697d/Picture1.jpg)
 
 
 
