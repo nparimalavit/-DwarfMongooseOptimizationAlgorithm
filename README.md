@@ -17,12 +17,16 @@ The dwarf mongoose optimization (DMO) technique can be used to eliminate extrane
 
 
 **Environment**
+
 Matlab (2025 a)
 •	Image processing toolkit
 •	Machine Learning toolkit
 •	Deep learning toolkit
-**Datasets**
+
+**Brain Tumor MRI Image Dataset**
+
 We obtained the Kaggle dataset for this study. This dataset helps evaluate health trends and patterns. Every data entry contains patient-relevant information. This dataset analyzes recalled indicative estimations to predict BS in patients. The dataset didn't include patient names, addresses, or SSNs. In the experiment dataset, patient confidentiality is not at danger. The dataset has 5110 samples. Every sample has 11 attributes and 1 target value. Data is divided into training and testing. The model is trained on 80% of the data and tested on 20%.
+_(https://www.kaggle.com/datasets/hghdhygf/brain-tumor-mri-image-dataset)_
 
 **Brain2025**
 
