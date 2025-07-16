@@ -14,12 +14,12 @@ Dwarf Mongoose Optimization Algorithm
 
 
 
-Environment
+**Environment**
 Matlab (2025 a)
 •	Image processing toolkit
 •	Machine Learning toolkit
 •	Deep learning toolkit
-Datasets
+**Datasets**
 We obtained the Kaggle dataset for this study. This dataset helps evaluate health trends and patterns. Every data entry contains patient-relevant information. This dataset analyzes recalled indicative estimations to predict BS in patients. The dataset didn't include patient names, addresses, or SSNs. In the experiment dataset, patient confidentiality is not at danger. The dataset has 5110 samples. Every sample has 11 attributes and 1 target value. Data is divided into training and testing. The model is trained on 80% of the data and tested on 20%.
 
 Brain2025
@@ -28,6 +28,7 @@ Brain2025
 
 
 Augmented Images
+![image alt](https://github.com/nparimalavit/-DwarfMongooseOptimizationAlgorithm/blob/main/3.jpg?raw=true)
   
 Train
 Edit the brain_code.m file of the corresponding dataset for training configuration and run the following command to train.
