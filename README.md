@@ -30,11 +30,15 @@ Augmented Images
   
 Train
 Edit the brain_code.m file of the corresponding dataset for training configuration and run the following command to train.
+
+
 Test
 Edit the brain_code.m file of the corresponding dataset for testing configuration and run the following command to test.
 python test.py options/brats.yaml
 Citation
 If you find this code useful in your research, please consider citing:
+
+
 @article{cao2025 DEMO-BARN,
   title={ DEMO-BARN: DWARF MONGOOSE OPTIMIZATION ALGORITHM FOR BRAIN STROKE CLASSIFICATION USING DUAL IMAGES},
   author={ Parimala Nallamotu, Muneeswari G },
