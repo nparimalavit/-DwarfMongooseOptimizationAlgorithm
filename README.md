@@ -38,9 +38,12 @@ Edit the brain_code.m file of the corresponding dataset for training configurati
 
 **Test**
 Edit the brain_code.m file of the corresponding dataset for testing configuration and run the following command to test.
-python test.py options/brats.yaml
-Citation
-If you find this code useful in your research, please consider citing:
+
+
+![image alt](https://github.com/nparimalavit/-DwarfMongooseOptimizationAlgorithm/blob/main/1.jpg?raw=true)
+
+**Citation
+If you find this code useful in your research, please consider citing:**
 
 **Cite this Article**
 @article{DEMOBARN2025,
