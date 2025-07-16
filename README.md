@@ -42,11 +42,11 @@ Citation
 If you find this code useful in your research, please consider citing:
 
 
-@article{DEMO-BARN2025,
+@article{DEMOBARN2025,
   title={DEMO-BARN: DWARF MONGOOSE OPTIMIZATION ALGORITHM FOR BRAIN STROKE CLASSIFICATION USING DUAL IMAGES},
   author={Parimala Nallamotu, Muneeswari G},
   journal={International Journal of Computer Vision},
-  pages={1--20},
+  pages={1-23},
   year={2025},
   publisher={Springer}
 }
