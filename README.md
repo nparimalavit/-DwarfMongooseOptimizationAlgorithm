@@ -18,7 +18,7 @@ The dwarf mongoose optimization (DMO) technique can be used to eliminate extrane
 
 **Environment**
 
-Matlab (2025 a)
+Matlab (2019 b)
 •	Image processing toolkit
 •	Machine Learning toolkit
 •	Deep learning toolkit
